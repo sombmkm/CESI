@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"java.project.referencedLibraries": [
+			"lib/**/*.jar",
+			"c:\\iut\\TP\\java\\paquetage_class\\iut.jar",
+			"c:\\iut\\TP\\java\\paquetage_class\\jansi-1.4.jar"
+		]
+	}
+}
